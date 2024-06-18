@@ -1,2 +1,2 @@
-#1/bin/bash
-ls -l > /etc/passwd sort | users
+#!/bin/bash
+getent /etc/passwd/ | cut -d: -f1 
