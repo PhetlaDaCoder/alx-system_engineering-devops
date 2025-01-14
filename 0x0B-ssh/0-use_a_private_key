@@ -1,7 +1,4 @@
-#!/bin/bash
-
-#Defines server address
-SERVER=100.25.215.249
+#!/usr/bin/env bash
 
 #Connects the server using private key and user ubuntu
-ssh -i ~/.ssh/school -o User=ubuntu $SERVER
+ssh -i ~/.ssh/school ubuntu@100.25.215.249
