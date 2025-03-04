@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-a function that queries Reddit API and prints titles 
+a function that queries Reddit API and prints titles
 of first 10 hot posts given subreddit.
 """
 
