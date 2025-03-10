@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#Transfers a file from clien-side to server-side
+#Transfers a file from client to server
 #
 #variables
 if [ S# -lt 4 ]
